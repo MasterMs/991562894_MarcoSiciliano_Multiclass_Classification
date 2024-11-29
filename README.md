@@ -2,7 +2,7 @@
 
 This study investigates, using feature importance analysis, confusion matrices, classification reports and  other metrics, how well different algorithms predict wine quality based on a number of features.
 
--fixed_acidity
+- fixed_acidity
 - volatile_acidity	
 - citric_acid	
 - residual_sugar
